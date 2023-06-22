@@ -1,0 +1,7 @@
+#ifndef CHIP8_SRC_CHIP8_HPP
+#define CHIP8_SRC_CHIP8_HPP
+
+
+
+
+#endif // !CHIP8_SRC_CHIP8_HPP
