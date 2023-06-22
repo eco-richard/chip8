@@ -8,7 +8,7 @@ With [CMake](https://cmake.org/) and [vcpkg](https://vcpkg.io/en/getting-started
 clone the repository and run the following commands in the project directory
 
 ```sh
-mkdir build && cd build
-cmake .. -DCMAKE_TOOLCHAIN_FILE="<PATH_TO_VCPKG>/scripts/buildsystems/vcpkg.cmake"
-make
+$ mkdir build && cd build
+$ cmake .. -DCMAKE_TOOLCHAIN_FILE="<PATH_TO_VCPKG>/scripts/buildsystems/vcpkg.cmake"
+$ make
 ```
