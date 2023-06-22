@@ -1,0 +1,5 @@
+build
+format-all
+
+**/.DS_Store
+.cache
